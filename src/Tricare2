@@ -1,0 +1,43 @@
+Content-Type: multipart/form-data; boundary="2873dfad809744b88c850f4173fdc9d4"
+
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "PayloadType"
+
+X12_271_Response_005010X279A1
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "ProcessingMode"
+
+RealTime
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "PayloadID"
+
+FE3CCEDE-B68A-11E3-9B4E-001B21482A50
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "TimeStamp"
+
+2014-03-28T11:09:44Z
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "SenderID"
+
+7GW1345MN3
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "ReceiverID"
+
+571132733
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "CORERuleVersion"
+
+2.2.0
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "Payload"
+
+ISA*03*7GW1345MN3*00*          *30*571132733      *ZZ*CLAIMLYNX      *140328*1009*^*00501*000057724*0*P*:~GS*HB*571132733*7GW1345MN3*20140328*1009*1*X*005010X279A1~ST*271*0001*005010X279A1~BHT*0022*11*000100546*20140328*11094428~HL*1**20*1~NM1*PR*2*TRICARE*****PI*571132733~HL*2*1*21*1~NM1*1P*2*GROUP HEALTH PLAN INC*****XX*1710924683~HL*3*2*22*0~TRN*1*57724*9CLAIMLYNX~NM1*IL*1*ADDIS*ANNA****MI*NJ3HZN86210620~AAA*N**72*C~DMG*D8*20131118~DTP*291*D8*20131125~SE*13*0001~GE*1*1~IEA*1*000057724~
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "ErrorCode"
+
+Success
+--2873dfad809744b88c850f4173fdc9d4
+Content-Disposition: form-data; name= "ErrorMessage"
+
+Envelope was processed successfully.
+--2873dfad809744b88c850f4173fdc9d4--
